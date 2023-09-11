@@ -1,0 +1,5 @@
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+ebff63de47e97542f39cf9af6e46f9e0
+
+https://api.openweathermap.org/data/2.5/weather?q=germany&appid=ebff63de47e97542f39cf9af6e46f9e0&units=metric
